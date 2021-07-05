@@ -1,0 +1,14 @@
+{
+  "name": "galactic-copilot-api",
+  "version": "1.0.0",
+  "description": "API to power the galactic-copilot-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin Cooper",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "^8.5.1"
+  }
+}
