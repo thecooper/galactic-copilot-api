@@ -9,6 +9,7 @@
   "author": "Justin Cooper",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.17.1",
     "restify": "^8.5.1"
   }
 }
